@@ -3,3 +3,4 @@ My name is Trang Nguyen. I am an M.Sc. in Applied Data Science for Business, maj
 ## 📫 How to reach me: 
 
 [LinkedIn](https://www.linkedin.com/in/trang-nguyen-88a710b9/)
+[Email: nttrang@live.com](nttrang@live.com)
