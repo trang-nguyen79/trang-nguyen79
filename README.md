@@ -4,10 +4,15 @@ My name is Trang Nguyen. I have experience in Marketing Solution Consulting and 
 I am currently pursuing a graduate program in Applied Data Science for Business, majoring in Enterprise Analytics and Business Intelligence. I am investing 100% of my time in coding, learning new stuff, and honing my skills in various areas, including ✳️ Data Analytics, ✳️ Data Visualization, and ✳️ Data Science projects. I am interested in topics related to Sales and marketing, Market Trends, and Business Performance.
 
 My skills include:
+
 ❤️ SQLite / MySQL
+
 ❤️ Tableau
+
 ❤️ Power BI
+
 ❤️ Python: pandas, numpy, seaborn
+
 ❤️ R: lessR, tidyverse, ggplot2
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trang-nguyen79&hide_progress=true)
