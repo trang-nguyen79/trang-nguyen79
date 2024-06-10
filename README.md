@@ -4,7 +4,6 @@ My name is Trang Nguyen. I have experience in Marketing Solution Consulting and 
 I am currently pursuing a graduate program in Applied Data Science for Business, majoring in Enterprise Analytics and Business Intelligence. I am investing 100% of my time in coding, learning new stuff, and honing my skills in various areas, including ✳️ Data Analytics, ✳️ Data Visualization, and ✳️ Data Science projects. I am interested in topics related to Sales and marketing, Market Trends, and Business Performance.
 
 My skills include:
-
 ❤️ SQLite / MySQL
 ❤️ Tableau
 ❤️ Power BI
@@ -22,13 +21,43 @@ My skills include:
 
 <a href="https://github.com/trang-nguyen79/SQL-World-Layoffs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-World_Layoffs&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-World-Layoffs&theme=radical" />
 </a>    
 <a href="https://github.com/trang-nguyen79/SQL-chinook-music-analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-chinook-music-analysis&theme=merko" />
 </a>
- 
+ <a href="https://github.com/trang-nguyen79/SQL-Learning-Journey">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-Learning-Journey&theme=radical" />
+</a>
 
+<a href="https://github.com/trang-nguyen79/Tableau-World-Happiness-Report">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-World-Happiness-Report&theme=merko" />
+</a>    
+<a href="https://github.com/trang-nguyen79/Tableau-Sales-Performance-Report">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-Sales-Performance-Report&theme=gruvbox" />
+</a>
 
+<a href="https://github.com/trang-nguyen79/Python-Scraping-Data-from-a-Real-Web">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Python-Scraping-Data-from-a-Real-Web&theme=dark" />
+</a>    
+<a href="https://github.com/trang-nguyen79/Python-Projects">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Python-Projects&theme=onedark" />
+</a>
+
+<a href="https://github.com/trang-nguyen79/PowerBI-Data-Professional-Survey">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=PowerBI-Data-Professional-Survey&theme=cobalt" />
+</a>    
+<a href="https://github.com/trang-nguyen79/PowerBI-Financial-Report">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=PowerBI-Financial-Report&theme=synthwave" />
+</a>
+
+## To be Updated
 
