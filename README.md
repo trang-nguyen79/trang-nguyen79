@@ -34,7 +34,7 @@ My skills include:
 </a>
  <a href="https://github.com/trang-nguyen79/SQL-Learning-Journey">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-Learning-Journey&theme=cobal" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-Learning-Journey&theme=dracula" />
 </a>
 
 <a href="https://github.com/trang-nguyen79/Tableau-World-Happiness-Report">
@@ -57,7 +57,7 @@ My skills include:
 
 <a href="https://github.com/trang-nguyen79/PowerBI-Data-Professional-Survey">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=PowerBI-Data-Professional-Survey&theme=tradical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=PowerBI-Data-Professional-Survey&theme=highcontrast" />
 </a>    
 <a href="https://github.com/trang-nguyen79/PowerBI-Financial-Report">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
