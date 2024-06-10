@@ -11,6 +11,8 @@ My skills include:
 ❤️ Python: pandas, numpy, seaborn
 ❤️ R: lessR, tidyverse, ggplot2
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trang-nguyen79&hide_progress=true)
+
 ## 📫 Find me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/trang-nguyen-88a710b9/)
@@ -24,40 +26,9 @@ My skills include:
 </a>    
 <a href="https://github.com/trang-nguyen79/SQL-chinook-music-analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-chinook-music-analysis&theme=merko" />
 </a>
-
-<a href="https://github.com/trang-nguyen79/Tableau-World-Happiness-Report">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="https://github.com/trang-nguyen79/Tableau-Sales-Performance-Report">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
-
-<a href="https://github.com/trang-nguyen79/Python-Scraping-Data-from-a-Real-Web">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/trang-nguyen79/Python-Projects">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/trang-nguyen79/PowerBI-Financial-Report">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/trang-nguyen79/PowerBI-Data-Professional-Survey">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
-</a>
-
-<a href="https://github.com/trang-nguyen79/SQL-Learning-Journey">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
-</a>    
+ 
 
 
 
