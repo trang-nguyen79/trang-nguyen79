@@ -3,7 +3,7 @@ My name is Trang Nguyen. I have experience in Marketing Solution Consulting and 
 
 I am currently pursuing a graduate program in Applied Data Science for Business, majoring in Enterprise Analytics and Business Intelligence. I am investing 100% of my time in coding, learning new stuff, and honing my skills in various areas, including ✳️ Data Analytics, ✳️ Data Visualization, and ✳️ Data Science projects. I am interested in topics related to Sales and marketing, Market Trends, and Business Performance.
 
-### Tech Skills
+### 💻 Tech Skills
 
 ❤️ SQLite / MySQL
 
