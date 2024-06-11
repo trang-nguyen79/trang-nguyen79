@@ -3,7 +3,7 @@ My name is Trang Nguyen. I have experience in Marketing Solution Consulting and 
 
 I am currently pursuing a graduate program in Applied Data Science for Business, majoring in Enterprise Analytics and Business Intelligence. I am investing 100% of my time in coding, learning new stuff, and honing my skills in various areas, including ✳️ Data Analytics, ✳️ Data Visualization, and ✳️ Data Science projects. I am interested in topics related to Sales and marketing, Market Trends, and Business Performance.
 
-My skills include:
+### Tech Skills
 
 ❤️ SQLite / MySQL
 
@@ -17,13 +17,14 @@ My skills include:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trang-nguyen79&hide_progress=true)
 
-## 📫 Find me: 
+### 📫 Find Me at: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/trang-nguyen-88a710b9/)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/app/profile/trang.nguyen3004/vizzes)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/trang-nguyen79) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/trangnguyen79) 
 
+### Examples of Work
 <a href="https://github.com/trang-nguyen79/SQL-World-Layoffs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-World-Layoffs&theme=radical" />
