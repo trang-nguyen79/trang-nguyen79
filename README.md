@@ -39,11 +39,11 @@ My skills include:
 
 <a href="https://github.com/trang-nguyen79/Tableau-World-Happiness-Report">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-World-Happiness-Report&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-World-Happiness-Report&theme=gruvbox" />
 </a>    
 <a href="https://github.com/trang-nguyen79/Tableau-Sales-Performance-Report">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-Sales-Performance-Report&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Tableau-Sales-Performance-Report&theme=synthwave" />
 </a>
 
 <a href="https://github.com/trang-nguyen79/Python-Scraping-Data-from-a-Real-Web">
