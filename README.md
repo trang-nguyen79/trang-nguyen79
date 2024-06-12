@@ -51,6 +51,12 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Python-Scraping-Data-from-a-Real-Web&theme=dark" />
 </a>    
+
+<a href="https://github.com/trang-nguyen79/Python-Cleaning-Dataset-with-Pandas">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Python-Cleaning-Dataset-with-Pandas&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/trang-nguyen79/Python-Projects">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Python-Projects&theme=onedark" />
