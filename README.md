@@ -70,6 +70,9 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=PowerBI-Financial-Report&theme=merko" />
 </a>
-
+<a href="[https://github.com/trang-nguyen79/PowerBI-Financial-Report](https://github.com/trang-nguyen79/Exploratory-Data-Analysis)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Exploratory-Data-Analysis&theme=gruvbox_light" />
+</a>
 ## To be Updated
 
