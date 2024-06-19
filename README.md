@@ -15,8 +15,6 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
 
 ❤️ R: lessR, tidyverse, ggplot2
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trang-nguyen79&hide_progress=true)
-
 ### 📫 Find Me at: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/trang-nguyen-88a710b9/)
