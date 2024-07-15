@@ -23,6 +23,10 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/trangnguyen79) 
 
 ### Examples of Work
+<a href="[https://github.com/trang-nguyen79/Pizza-Sales-Analysis/tree/main](https://github.com/trang-nguyen79/Pizza-Sales-Analysis/tree/main)">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Pizza-Sales-Analysis&theme=gruvbox_light" />
+</a>
 <a href="https://github.com/trang-nguyen79/SQL-World-Layoffs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=SQL-World-Layoffs&theme=radical" />
@@ -73,4 +77,3 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Exploratory-Data-Analysis&theme=nightowl" />
 </a>
 ## To be Updated
-
