@@ -23,6 +23,10 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/trangnguyen79) 
 
 ### Examples of Work
+<a href="https://github.com/trang-nguyen79/Customer-Segmentation-Analysis-by-RFM-Score">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Customer-Segmentation-Analysis-by-RFM-Score&theme=slateorange" />
+</a>
 <a href="https://github.com/trang-nguyen79/Airbnb-listing-analysis/blob/main/README.md">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trang-nguyen79&repo=Airbnb-listing-analysis&theme=yeblu" />
