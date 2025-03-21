@@ -5,15 +5,15 @@ I am currently pursuing a graduate program in Applied Data Science for Business,
 
 ### 💻 Tech Skills
 
-❤️ SQLite / MySQL
-
-❤️ Tableau
+❤️ ProgreSQL / SQLite / MySQL
 
 ❤️ Power BI
 
-❤️ Python: pandas, numpy, seaborn
+❤️ Tableau
 
-❤️ R: lessR, tidyverse, ggplot2
+❤️ Python: pandas, numpy, seaborn, matplotlib, sklearn,...
+
+❤️ R: lessR, tidyverse, ggplot2,...
 
 ### 📫 Find Me at: 
 
